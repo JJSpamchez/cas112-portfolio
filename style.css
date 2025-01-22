@@ -3,3 +3,14 @@
 <head><title>css</title></head>
 html { 
 }
+
+header { 
+  position: sticky;
+  top: 0;  
+  background-color: #0d141e;  
+  padding: 10px 0;
+  border-bottom: 4px solid #dcb94b;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; /*please center*/
+}
